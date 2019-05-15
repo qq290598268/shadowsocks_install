@@ -86,6 +86,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+
 安装完成后，脚本提示如下
 
 Congratulations, your_shadowsocks_version install completed!
